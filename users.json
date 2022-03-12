@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "first_name": "Yancy",
+    "last_name": "D'Alesco",
+    "email": "ydalesco0@cbslocal.com",
+    "gender": "Genderfluid",
+    "ip_address": "164.215.194.36",
+    "age": 65
+  },
+  {
+    "id": 2,
+    "first_name": "Gursimar",
+    "last_name": "Tubritt",
+    "email": "htubritt3@amazon.de",
+    "gender": "Genderfluid",
+    "ip_address": "219.8.220.31",
+    "age": 13
+  }
+]
