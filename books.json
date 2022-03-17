@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "first_name": "Caroline",
+    "last_name": "Peasee",
+    "email": "cpeasee0@livejournal.com",
+    "gender": "Female",
+    "ip_address": "62.177.72.210"
+  },
+  {
+    "id": 2,
+    "first_name": "Guru",
+    "last_name": "Aslin",
+    "email": "daslin1@wix.com",
+    "gender": "Agender",
+    "ip_address": "177.59.183.223"
+  }
+]
